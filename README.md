@@ -19,9 +19,6 @@
 基于 Vue + Element UI 的后台管理系统解决方案。[线上地址](https://chenzqi.cn/vue-admin)
 
 
-
-[English document](https://github.com/lin-xin/manage-system/blob/master/README_EN.md)
-
 ## 项目截图
 
 ### 登录
@@ -65,9 +62,9 @@
 ## 安装步骤
 
 ```
-git clone https://github.com/lin-xin/vue-manage-system.git      // 把模板下载到本地
-cd vue-manage-system    // 进入模板目录
-npm install         // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
+git clone ...          // 把模板下载到本地
+cd vue-manage-system   // 进入模板目录
+npm install           // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
 
 // 开启服务器，浏览器访问 http://localhost:8080
 npm run serve
